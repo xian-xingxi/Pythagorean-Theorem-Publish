@@ -1,0 +1,75 @@
+body{
+    /* width:600px; */
+    /* margin:auto; */
+    /* padding:0px 75px; */
+    
+    background-color:maroon;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+div.main{
+    background-color:white;
+    width:600px;
+    padding:30px 75px;
+    margin:auto;
+    border-radius:20px;
+
+    
+}
+
+h1{
+    color:#808000;
+    padding:0;
+    
+}
+
+h1,h2,h3{
+    font-family: 'Maven Pro', sans-serif;
+}
+
+h2,h3{
+    color:maroon;
+}
+
+p{
+    letter-spacing:0.3;
+}
+
+div.calculator{
+    background-color:rgb(235, 235, 235);
+    border:1px solid grey;
+    padding:10px 50px;
+}
+
+span.calculate1{
+    font-variant:small-caps;
+    font-weight: bold;
+    border:1px solid black;
+    padding-bottom:1px;
+}
+
+button{
+    font-size:18px;
+    font-variant:small-caps;
+    background-color:#808000;
+    color:white;
+    padding:5px 15px;
+}
+
+span.question-mark{
+    font-weight:bold;
+    color:maroon;
+}
+
+img{
+    padding-bottom:15px;
+    padding-right:10px;
+    vertical-align:center;
+    /* border:none; */
+}
+
+img:hover{
+    border:1px solid black;
+}
+
